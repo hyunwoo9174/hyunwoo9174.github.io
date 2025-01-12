@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 Nice to meet you.
 
-🌱 I’m currently learning Python(3 ofcource).
+🌱 I’m currently learning Python3.
 📫 How to reach me: hyunwoo9174@outlook.com.
