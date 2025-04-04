@@ -1,0 +1,26 @@
+/* contents of styles.css */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+h1 {
+    color: #333;
+}
+h2 {
+    color: #666;
+}
+p {
+    line-height: 1.6;
+}
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+    background: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+/* Add more styles as needed */
+/* End of styles.css */
